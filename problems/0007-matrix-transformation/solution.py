@@ -11,4 +11,4 @@ def transform_matrix(A: list[list[int|float]], T: list[list[int|float]], S: list
         return -1
 
     transformed_matrix = np.linalg.inv(numT) @ numA @ numS
-    return transformed_matrix
+    return transformed_matrix.tolist()
