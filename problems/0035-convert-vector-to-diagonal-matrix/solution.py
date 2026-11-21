@@ -5,4 +5,4 @@ def make_diagonal(x):
     diag = np.zeros((n, n))
     for i in range(n):
         diag[i][i] = x[i]
-    return diag
+    return diag.tolist()
