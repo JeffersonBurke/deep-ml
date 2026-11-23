@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T03:24:03.925Z",
+  "generated_at": "2026-11-23T03:50:00.021Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -283,9 +283,9 @@
       "url": "https://www.deep-ml.com/problems/1278",
       "path": "problems/1278-tensor-puzzle-reverse-a-vector",
       "first_solved_at": "2026-11-23T03:24:03.441Z",
-      "last_pushed_at": "2026-11-23T03:24:03.441Z",
+      "last_pushed_at": "2026-11-23T03:49:59.641Z",
       "language": "python",
-      "lines": 10
+      "lines": 8
     }
   }
 }
